@@ -34,42 +34,5 @@
       "type": "image/png",
       "purpose": "maskable"
     }
-  ],
-  "screenshots": [
-    {
-      "src": "../dayhub/screenshots/phone-1-home.png",
-      "sizes": "1080x1920",
-      "type": "image/png",
-      "form_factor": "narrow",
-      "label": "Your whole day on one screen"
-    },
-    {
-      "src": "../dayhub/screenshots/phone-2-schedule.png",
-      "sizes": "1080x1920",
-      "type": "image/png",
-      "form_factor": "narrow",
-      "label": "Schedule with a NOW line"
-    },
-    {
-      "src": "../dayhub/screenshots/phone-3-weather.png",
-      "sizes": "1080x1920",
-      "type": "image/png",
-      "form_factor": "narrow",
-      "label": "Weather that tells you when the rain starts"
-    },
-    {
-      "src": "../dayhub/screenshots/phone-4-brain-dump.png",
-      "sizes": "1080x1920",
-      "type": "image/png",
-      "form_factor": "narrow",
-      "label": "Brain dump: type it all, Day Hub sorts it"
-    },
-    {
-      "src": "../dayhub/screenshots/wide-1-home.png",
-      "sizes": "1280x800",
-      "type": "image/png",
-      "form_factor": "wide",
-      "label": "Day Hub on a tablet or computer"
-    }
   ]
 }
